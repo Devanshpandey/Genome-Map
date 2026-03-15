@@ -13,14 +13,11 @@ env/
 
 # Data files
 data/raw/
-data/processed/
 *.vcf
 *.vcf.gz
 *.vcf.gz.tbi
 *.bam
 *.bai
-*.parquet
-*.pkl
 
 # Build folders
 .next/
