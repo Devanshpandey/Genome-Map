@@ -1,0 +1,10 @@
+# Ignore all Python/FastAPI backend files to prevent Vercel from overriding the Next.js build
+requirements.txt
+render.yaml
+apps/api/
+scripts/
+data/
+shared/
+Makefile
+docker-compose.yml
+.env.example
